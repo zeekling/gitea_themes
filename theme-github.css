@@ -214,3 +214,7 @@ a.ui.label {
 .ui .info.segment.top {
   background-color: var(--color-navbar)!important;
 }
+
+a:hover {
+	color: #1e70bf !important;
+}
